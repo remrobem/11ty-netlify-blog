@@ -1,4 +1,5 @@
 ---
-name: 'Church of the Epiphany'
-date: 2024-01-27
+title: Main
+name: Church of the Epiphany
 ---
+
